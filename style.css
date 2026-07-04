@@ -733,11 +733,12 @@ img {
     font-family: var(--font-heading);
     font-size: 1.45rem;
     font-style: italic;
-    color: var(--color-rose-light);
+    color: var(--color-rose);
     border-left: 3px solid var(--color-rose);
     padding-left: 20px;
     margin-top: 10px;
     line-height: 1.5;
+    text-shadow: 0 2px 10px rgba(241, 91, 181, 0.3);
 }
 
 /* Sobre Mer Section */
